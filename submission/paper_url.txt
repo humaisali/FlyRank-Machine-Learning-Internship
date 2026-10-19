@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://humaisali.github.io/FlyRank-Machine-Learning-Internship/
